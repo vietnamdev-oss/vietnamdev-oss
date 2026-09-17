@@ -8,5 +8,5 @@ Fork the project.
 Clone the repo:
 
 ```bash
-git clone https://github.com/ExampleName/ForkedRepo
+git clone https://github.com/YourName/ForkedRepo
 ```
